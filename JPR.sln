@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPR", "JPR.csproj", "{6532308D-3554-43F5-8543-3E8A42890A1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6532308D-3554-43F5-8543-3E8A42890A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6532308D-3554-43F5-8543-3E8A42890A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6532308D-3554-43F5-8543-3E8A42890A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6532308D-3554-43F5-8543-3E8A42890A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD221255-29E0-43CD-A133-3BA5605AA7A8}
+	EndGlobalSection
+EndGlobal
